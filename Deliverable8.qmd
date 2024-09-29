@@ -1,0 +1,68 @@
+# Deliverable 8
+#### Group Name: Busy Bots
+#### Members: Christian Lemma and Briney Corral
+
+## Travel Planner
+
+This database serves the purpose of making trip planning and traveling easier for our users. Many trips rarely make it out of the planning phase, and unfortunately, the complexity and tedious responsibilities play a big part in that outcome. To ease the feeling of being overwhelmed for our users, we are creating a method in which travelers can book flights, hotels, find domestic trasportation, and even discover local attractions through the database.
+
+
+Here are a couple of our prior deliverables that best exemplify our progress:
+ 
+<a href = "https://docs.google.com/document/d/18MWiU-cxK0YOoHnA9TlnDCWD2RkEY_pyU0oaa8hnhNo/edit?usp=sharing"> Deliverable 1-4 </a>
+
+<a href = "https://vcu.mediaspace.kaltura.com/media/Project+5+deliverable/1_5w3uuvo0"> Deliverable 5 </a>
+
+<a href = ""> Github Repository </a>
+
+### Problem Desccritip
+Have you ever heard the saying, "the trip never makes it out of the group chat"? People often talk about planning trips, but as someone who loves to travel, I've noticed that these plans rarely come to life. This is usually because organizing a solid plan and budgeting for trips can be really stressful, which is why the trip often "never makes it out of the group chat."
+
+
+### Domain
+
+Our domain is frequent travelers that are looking to simplify their travel planning. However, it will also be able to cater to casual or rare travelers that might also find the planning process overwhelming.
+
+### Challenges
+
+We have various challenges that travelers encounter that we would be tackling through our database.
+
+<lis> Lack of organization during trips. </li>
+<lis> Limited creativity in planning. </li>
+<lis> Exceeding the budget. </li>
+<lis> Plans for trips not being carried out because of large group not knowing how to collaborate. </li>
+<lis> Lack of awareness of things to do in foreign environments. </li>
+
+### Solutions
+
+Just as we are aware of the challenges our database will be able to resolve, we have specific understanding of how exactly those hurdles could be resolved.
+
+<lis> Offer a streamlines planner to help travelers stay organized and adhere to their plans. </li>
+<ol style="list-style-type: lower-alpha; padding-bottom: 0;">
+    <li style="margin-left:2em">This can look like a chronologically ordered steps of booking and planning things that depend on the completion of the prior step. This can help track of what the traveler has already done and what more is left to consider when planning their trip.</li>
+</ol>
+<lis> Provide suggestions for activities and excursions tailored to their destinations. </li>
+<ol style="list-style-type: lower-alpha; padding-bottom: 0;">
+    <li style="margin-left:2em">From personal experiences, it is very common to travel to different foreign environments and to lack the awareness of activities to do in the area or different, well rated food locatins to try. We want to have our database be able to have a user friendly catalog of well rated restaurants, cafes, bars, and recreational/active locations that our travelers can easily access and consider in their budgeting. It would make creating itineraries quicker and easier.</li>
+</ol>
+<lis> Allow users to plan ahead with out planner, minimizing concerns about exceeding their budget.</li>
+<ol style="list-style-type: lower-alpha; padding-bottom: 0;">
+    <li style="margin-left:2em"> Keeping track of the costs of different things can be almost impossible, especially if the prices are constantly updated due to popularity, events, or off seasons. A hotel you looked at for one price this week might increase or decrease the following week, which poses to be a challenge in terms of keeping and getting rid of things in the itinerary. Our database would consider the updating prices of each entity and show when the price fluctuations exceed the given budget set by the traveler.</li>
+</ol>
+<lis> Simplify trip planning with our travel planner, making it easier for travelers to plan and execute their trips.</li>
+<ol style="list-style-type: lower-alpha; padding-bottom: 0;">
+    <li style="margin-left:2em"> Many times, planning trips with groups can pose a bigger challenge than solo travel. Collaboration between different travelers creating an itinerary together would be simplified with our database, providing them both with the same, up to date information and utilizing their combined budget to get the best trip out of their money.</li>
+</ol>
+
+
+### Entities
+
+Our main entities for this database include:
+
+
+<ls> Lodging / Hotels </ls>
+<ls> Restaurants </ls>
+<ls> Excursions </ls>
+<ls> Flights / Travel Cost </ls>
+<ls> Local Transportation </ls>
+<ls> Countries / Cities </ls>
