@@ -1,6 +1,7 @@
 # Deliverable 8
 #### Group Name: Busy Bots
 #### Members: Christian Lemma and Briney Corral
+#### Emails: Lemmacs@vcu.edu  and  Corralba@vcu.edu
 
 ## Travel Planner
 
@@ -13,7 +14,7 @@ Here are a couple of our prior deliverables that best exemplify our progress:
 
 <a href = "https://vcu.mediaspace.kaltura.com/media/Project+5+deliverable/1_5w3uuvo0"> Deliverable 5 </a>
 
-<a href = ""> Github Repository </a>
+<a href = "https://github.com/lemmacs/Deliverable8"> Github Repository </a>
 
 ### Problem Desccritip
 Have you ever heard the saying, "the trip never makes it out of the group chat"? People often talk about planning trips, but as someone who loves to travel, I've noticed that these plans rarely come to life. This is usually because organizing a solid plan and budgeting for trips can be really stressful, which is why the trip often "never makes it out of the group chat."
